@@ -1,11 +1,5 @@
-<style>
-	.image {
-		object-fit: cover;
-	}
-</style>
-
-<div style="object-fit: cover;" align="center">
-  <img class="image" style="object-fit: cover;" src="https://github.com/chase-adams/chase-adams/raw/master/server.jpg" height="300px" width="100%" />
+<div align="center">
+  <img src="https://github.com/chase-adams/chase-adams/raw/master/server.jpg" width="100%" />
 </div>
 
 <br />
