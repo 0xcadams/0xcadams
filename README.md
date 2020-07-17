@@ -1,4 +1,4 @@
-<div style="text-align: center; padding-bottom: 20px">
+<div align="center" style="padding-bottom: 20px">
   <img src="https://github.com/chase-adams/chase-adams/raw/master/server.jpg" width="80%" />
 </div>
 
