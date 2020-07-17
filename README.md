@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/chase-adams/chase-adams/raw/master/server.jpg" height="300px" />
+  <img style="object-fit: cover;" src="https://github.com/chase-adams/chase-adams/raw/master/server.jpg" height="300px" width="100%" />
 </div>
 
 <br />
