@@ -4,4 +4,4 @@ I am a Phoenix, Arizona native who loves software - I've earned a master's degre
 
 I have extensive experience in distributed, scalable, and secure software architectures, typically built with React/NextJS, NodeJS, and MongoDB. I am currently a Software Consultant/Principal at [Valure](https://valure.io/) and always looking for new and exciting projects to engage on!
 
-In my free time, I love to hike, ski, and travel as much as possible! I'm always available to chat - feel free to shoot me an email anytime!
+In my free time, I love to hike, ski, and travel as much as possible! I'm always available to chat - feel free to reach out anytime!
